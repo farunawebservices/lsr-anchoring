@@ -111,9 +111,9 @@ All results, anchor caches, and experiment logs are hosted on HuggingFace:
 
 ```bibtex
 @misc{faruna2026lsranchoring,
-  title     = {Language-Specific Refusal Anchoring: Training-Free Safety Recovery
-               in Multilingual LLMs via SAE-Derived Activation Steering},
-  author    = {Godwin, Faruna},
+  title     = {Latent Space Refusal Anchoring for Low-Resource African Languages:
+Mechanistic Safety Recovery Without Retraining},
+  author    = {Godwin, Abuh Faruna},
   year      = {2026},
   url       = {https://github.com/farunawebservices/lsr-anchoring}
 }
