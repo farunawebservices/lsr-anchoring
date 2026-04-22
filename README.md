@@ -1,4 +1,4 @@
-# LSR Anchoring — Cross-Lingual Safety Steering via SAE-Derived Activation Directions
+# Latent Space Refusal Anchoring for Low-Resource African Languages: Mechanistic Safety Recovery Without Retraining
 
 A training-free method for recovering safety alignment in multilingual LLMs using
 Sparse Autoencoder (SAE)-derived refusal direction anchors applied at inference time.
