@@ -1,13 +1,13 @@
 # Latent Space Refusal Anchoring for Low-Resource African Languages: Mechanistic Safety Recovery Without Retraining
 
-A training-free method for recovering safety alignment in multilingual LLMs using
+A training-free method for recovering safety alignment in multilingual LLMs using Mean Activation Steering and
 Sparse Autoencoder (SAE)-derived refusal direction anchors applied at inference time.
 
 ## Overview
 
 Large Language Models fine-tuned for safety in English frequently exhibit **alignment
 gaps** when prompted in low-resource languages. This project investigates whether
-English-derived refusal directions extracted via SAEs from the residual stream
+English-derived refusal directions extracted via mean activation steering and SAEs from the residual stream
 can be steered back into the model at inference time to recover safe behaviour across
 6 languages and 4 model families, with no fine-tuning required.
 
